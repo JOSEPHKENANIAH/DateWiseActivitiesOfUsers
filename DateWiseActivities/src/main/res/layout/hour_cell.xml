@@ -61,5 +61,8 @@
 
     </LinearLayout>
 
+<<<<<<< HEAD:DateWiseActivities/src/main/res/layout/hour_cell.xml
 
+=======
+>>>>>>> 38e3634 (Daily Calendar):app/src/main/res/layout/hour_cell.xml
 </LinearLayout>
